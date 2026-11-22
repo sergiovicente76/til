@@ -15,4 +15,5 @@ Notas curtas sobre o que aprendo no dia a dia: um arquivo Markdown por aprendiza
 - Commit: `docs(tema): titulo curto`
 
 ## Últimos aprendizados
+- [git: corrigir a mensagem de um commit](git/corrigir-mensagem-de-commit.md)
 - [git: configurar SSH com o GitHub](git/configurar-ssh-github.md)
